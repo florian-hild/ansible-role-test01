@@ -1,5 +1,5 @@
 galaxy_info:
-  repo_name: test01
+  role_name: test01
   author: Florian Hild
   description: Ansible galaxy test
   company: your company (optional)
